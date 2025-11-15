@@ -111,5 +111,10 @@ Chai:	Assertion library
 
 JavaScript:	Main programming language
 
+## 👤 Author
+
+Md. Firoz Hasan  
+GitHub: [Firoz04](https://github.com/Firoz04)
+
 
 
