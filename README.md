@@ -43,7 +43,7 @@ Node.js
 
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the Repository
-```
+```bash
 git clone <repo-url>
 cd <project-folder>
 ```
