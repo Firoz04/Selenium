@@ -1,4 +1,4 @@
-**Selenium WebDriver Automation Project
+** Selenium WebDriver Automation Project
 
 Automated UI testing scripts built using Selenium WebDriver, JavaScript, and Chai Assertion Library.
 This repository contains multiple test scripts demonstrating browser automation, navigation, search functionality, and assertion handling on:
