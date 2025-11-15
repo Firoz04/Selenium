@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Selenium WebDriver Automation Project
+=======
+** Selenium WebDriver Automation Project
+>>>>>>> 8243db85e7fb9d78a5217a1f3e3063bba995b538
 
 Automated UI testing scripts built using Selenium WebDriver, JavaScript, and Chai Assertion Library.
 This repository contains multiple test scripts demonstrating browser automation, navigation, search functionality, and assertion handling on:
@@ -108,5 +112,6 @@ ChromeDriver	Control Google Chrome
 Chai	Assertion library
 
 JavaScript	Main programming language
+
 
 
