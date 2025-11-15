@@ -47,7 +47,6 @@ Node.js
 git clone <repo-url>
 cd <project-folder>
 ```
-```
 ### 2️⃣ Install Dependencies
 npm install selenium-webdriver chai
 
