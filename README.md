@@ -43,19 +43,22 @@ Node.js
 
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the Repository
-```bash
+```
 git clone <repo-url>
 cd <project-folder>
 ```
 ### 2️⃣ Install Dependencies
+```
 npm install selenium-webdriver chai
-
+```
 ### 3️⃣ Run Any Test Script
+```
 node test.js
 
 node chai.js
 
 node liabrary.js
+```
 
 ## 🧪 Test Script Details
 ### 🔹 test.js – Navigation & Hover Action Script
