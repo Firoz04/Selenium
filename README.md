@@ -43,10 +43,11 @@ Node.js
 
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the Repository
+```
 git clone <repo-url>
 
 cd <project-folder>
-
+```
 ### 2️⃣ Install Dependencies
 npm install selenium-webdriver chai
 
