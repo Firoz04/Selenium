@@ -63,7 +63,6 @@ node liabrary.js
 ## 🧪 Test Script Details
 ### 🔹 test.js – Navigation & Hover Action Script
 
-What it does:
 
 Opens homepage
 
@@ -77,7 +76,6 @@ Demonstrates Selenium Actions API
 
 ### 🔹 chai.js – Assertion-Based Navigation Test
 
-What it does:
 
 Opens homepage
 
@@ -89,7 +87,6 @@ Navigates to Men using hover
 
 ### 🔹 liabrary.js – Product Search Automation
 
-What it does:
 
 Searches for "Nike air"
 
